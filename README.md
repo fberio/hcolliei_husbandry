@@ -12,7 +12,7 @@ This repository contains:
 
 <br><br>
 
-Follow these steps:
+Steps to follow:
 1. Install R 4.2.1 from [https://cloud.r-project.org/](https://cloud.r-project.org/)
 2. Install requirements [sessioninfo.md](sessioninfo.md)
 3. Launch hcolliei_husbandry.R
