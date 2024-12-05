@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Berio"
+  given-names: "Fidji"
+  orcid: "https://orcid.org/0000-0003-0810-9783"
+- family-names: "Charron"
+  given-names: "Raphaël"
+- family-names: "Dagouret"
+  given-names: "Jean-Marie"
+- family-names: "De Gasperis"
+  given-names: "Florent"
+- family-names: "Éon"
+  given-names: "Aurore"
+- family-names: "Meunier"
+  given-names: "Emmanuel"
+  orcid: "https://orcid.org/0000-0002-4014-4266"
+- family-names: "Simonet"
+  given-names: "Morrigane"
+- family-names: "Verschraegen"
+  given-names: "Nathalie"
+- family-names: "Hirel"
+  given-names: "Nicolas"
+title: "Husbandry conditions of spotted ratfish (<i>Hydrolagus colliei</i>, Chimaeriformes) in aquaria for successful embryonic development and long-term survival of juveniles"
+doi: 10.1002/zoo.21813
+date-released: 2023-12-28
+url: "https://onlinelibrary.wiley.com/doi/full/10.1002/zoo.21813"
+preferred-citation:
+  type: article
+  authors:
+- family-names: "Berio"
+  given-names: "Fidji"
+  orcid: "https://orcid.org/0000-0003-0810-9783"
+- family-names: "Charron"
+  given-names: "Raphaël"
+- family-names: "Dagouret"
+  given-names: "Jean-Marie"
+- family-names: "De Gasperis"
+  given-names: "Florent"
+- family-names: "Éon"
+  given-names: "Aurore"
+- family-names: "Meunier"
+  given-names: "Emmanuel"
+  orcid: "https://orcid.org/0000-0002-4014-4266"
+- family-names: "Simonet"
+  given-names: "Morrigane"
+- family-names: "Verschraegen"
+  given-names: "Nathalie"
+- family-names: "Hirel"
+  given-names: "Nicolas"
+  doi: "10.1002/zoo.21813"
+  journal: "Zoo Biology"
+  month: 12
+  start: 188 # First page number
+  end: 198 # Last page number
+  title: "Husbandry conditions of spotted ratfish (<i>Hydrolagus colliei</i>, Chimaeriformes) in aquaria for successful embryonic development and long-term survival of juveniles"
+  issue: 2
+  volume: 43
+  year: 2023
